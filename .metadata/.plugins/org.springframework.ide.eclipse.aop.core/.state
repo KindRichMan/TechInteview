@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringBoard1(17°­2½Ã)"/>
+<aop-project name="test"/>
+<aop-project name="SpringBasic1"/>
+<aop-project name="TechInterview"/>
+<aop-project name="SpringBasic"/>
+<aop-project name="prj_rest"/>
+</aop-reference-model>
